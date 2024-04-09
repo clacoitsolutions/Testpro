@@ -11,6 +11,7 @@ jobs:
       - name: Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ftp.103.48.50.148
+          server: ftp.testwebapi.claco.in
           username: Test
           password: Niranjan1234@
+
